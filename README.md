@@ -1,2 +1,1 @@
-# .github
-Mural organization repository
+# Mural
